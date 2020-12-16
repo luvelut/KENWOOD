@@ -20,4 +20,4 @@ Nous avons pû découvrir l'intégration des scripts dans l'HTML et le CSS pour 
 ### EQUIPE DE PROJET 
 
 Clara PONCET  
-Lucile VELUT    
+Lucile VELUT     
